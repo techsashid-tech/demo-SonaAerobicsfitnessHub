@@ -1,0 +1,6 @@
+{
+  "name": "Sona Aerobics & Fitness Hub",
+  "description": "Exclusive ladies gym & premier aerobics fitness center in Mahanadi Vihar, Odisha. Experience empowering women-only workouts, Zumba, strength training, and wellness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
