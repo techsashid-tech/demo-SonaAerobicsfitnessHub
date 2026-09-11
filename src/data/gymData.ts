@@ -273,7 +273,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: "gal-1",
     title: "Aerobics Step Session",
     category: "Aerobics",
-    imageUrl: "1.png",
+    imageUrl: "https://drive.google.com/drive/u/0/folders/1dlPL4G04YzFn7S0E2Pp81WXXTdJ032to?auto=format&fit=crop&w=900&q=80",
     caption: "High spirits and rhythmic steps during our morning cardio batch"
   },
   {
