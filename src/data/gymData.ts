@@ -273,7 +273,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: "gal-1",
     title: "Aerobics Step Session",
     category: "Aerobics",
-    imageUrl: "1.png?auto=format&fit=crop&w=900&q=80",
+    imageUrl: "https://github.com/techsashid-tech/demo-SonaAerobicsfitnessHub/blob/f9b9ae851c50ba9bdcf018049a05a0cb2a2e0f4b/1.png?auto=format&fit=crop&w=900&q=80",
     caption: "High spirits and rhythmic steps during our morning cardio batch"
   },
   {
